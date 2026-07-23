@@ -1,11 +1,3 @@
-# Local machine config, not shared
-.claude/settings.local.json
-
-# Tracking / operator docs, kept local (not published to GitHub)
-CLAUDE.md
-NOW.md
-CHANGELOG.md
-
 # Python
 __pycache__/
 *.pyc
